@@ -1,0 +1,8 @@
+{
+  "name": "Remix: متجر مها",
+  "description": "تطبيق متجر إلكتروني احترافي بتصميم عصري وأنيق يدعم اللغة العربية بالكامل مع لوحة تحكم متكاملة ونظام طلبات وفواتير PDF.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
